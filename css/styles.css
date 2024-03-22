@@ -1,0 +1,4 @@
+.slide img{
+    max-height: 100vh;
+    object-fit: cover;
+}
